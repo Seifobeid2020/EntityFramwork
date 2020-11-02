@@ -1,0 +1,6 @@
+Comments: 
+
+1- the Db Context should be a clear name like TaskManagmentContext not Task1OneDbContext.
+
+2- The name of the project and solution should be TaskManagmentSystem not the tool we are using (EntityFramework). 
+
